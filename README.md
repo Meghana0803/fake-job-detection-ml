@@ -33,7 +33,19 @@ Industry-wise fraud distribution
 
 Location-based risk insights
 
+![Dashboard Preview](dashboard_preview.png) 
+
 Interactive filters for stakeholders
 
 💡 Business Impact
 The system demonstrates how machine learning can assist job platforms in detecting suspicious postings early, improving platform trust and reducing manual review workload.
+
+⚙️ How to Run the Project
+Clone the repository
+
+Install required libraries:
+
+pip install -r requirements.txt
+Run the Jupyter notebook:
+
+jupyter notebook fake_job_detection_model.ipynb
